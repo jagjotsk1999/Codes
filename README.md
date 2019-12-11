@@ -29,7 +29,9 @@ This repository gets updated almost daily with **Java** codes.
 22. [Sub-Array Minimum Difference](https://github.com/jagjotsk1999/Codes/blob/master/SubArrayMinimumDifference.java)
 23. [PhoneBook](https://github.com/jagjotsk1999/Codes/blob/master/PhoneBook.java)
 24. [Stack using two Queues](https://github.com/jagjotsk1999/Codes/blob/master/StackUsingTwoQueues.java)
-25. 
-26. 
-27. 
-28. 
+25. [Highest Prime Factor](https://github.com/jagjotsk1999/Codes/blob/master/HighestPrimeFactor.java)
+26. [Binary Tree Mirror](https://github.com/jagjotsk1999/Codes/blob/master/BinaryTreeMirror.java)
+27. [Binary Tree Leaf Nodes](https://github.com/jagjotsk1999/Codes/blob/master/BinaryTreeLeafNodes.java)
+28. [Merge Sorted Arrays](https://github.com/jagjotsk1999/Codes/blob/master/MergeSortedArrays.java)
+29. [Insert in Middle of Linked List](https://github.com/jagjotsk1999/Codes/blob/master/InsertNodeMiddleLinkedList.java)
+30. [Print Matrix in Spiral](https://github.com/jagjotsk1999/Codes/blob/master/SpiralMatrix.java)
