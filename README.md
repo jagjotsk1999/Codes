@@ -35,3 +35,8 @@ This repository gets updated almost daily with **Java** codes.
 28. [Merge Sorted Arrays](https://github.com/jagjotsk1999/Codes/blob/master/MergeSortedArrays.java)
 29. [Insert in Middle of Linked List](https://github.com/jagjotsk1999/Codes/blob/master/InsertNodeMiddleLinkedList.java)
 30. [Print Matrix in Spiral](https://github.com/jagjotsk1999/Codes/blob/master/SpiralMatrix.java)
+31. [Array Max Number](https://github.com/jagjotsk1999/Codes/blob/master/ArrayMaxNumber.java)
+32. [Add Without + operator](https://github.com/jagjotsk1999/Codes/blob/master/AddWithoutPlusOp.java)
+
+### **Jagjot Singh Kohli**
+> Full Stack Developer
